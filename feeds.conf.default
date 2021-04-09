@@ -11,6 +11,4 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
 src-git iptvhelper https://github.com/riverscn/openwrt-iptvhelper.git
-src-git clash https://github.com/frainzy1477/luci-app-clash.git
-src-git openclash https://github.com/vernesong/OpenClash.git
-src-git smartdns https://github.com/Apocalypsor/luci-app-smartdns.git
+src-git kenzo https://github.com/kenzok8/openwrt-packages
